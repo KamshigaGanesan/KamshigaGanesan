@@ -1,3 +1,8 @@
+Kamshiga Ganesan
+Software Engineering Undergraduate
+Full-Stack Developer | MERN | Spring Boot | React Native
+Open to Internship Opportunities
+
 # Hi, I'm Kamshiga Ganesan 👋
 
 🎓 Software Engineering Undergraduate at SLIIT Northern University
