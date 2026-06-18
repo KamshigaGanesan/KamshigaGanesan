@@ -67,12 +67,10 @@ Machine Learning research project focused on predicting second-hand car prices i
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/kamshigaganesan
-- GitHub: github.com/KamshigaGanesan
+- GitHub: https://github.com/KamshigaGanesan
 - Email: ganesankamshiga@gmail.com
 
 ---
 ⭐ Always eager to learn, collaborate, and grow as a Software Engineer.
 
 
----
-⭐ Always eager to learn, collaborate, and grow as a Software Engineer.
