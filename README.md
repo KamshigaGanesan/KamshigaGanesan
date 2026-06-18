@@ -19,6 +19,12 @@ Currently seeking internship opportunities to gain industry experience, improve 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamshigaGanesan&layout=compact)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KamshigaGanesan)](...)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KamshigaGanesan)]
+
+![](https://komarev.com/ghpvc/?username=KamshigaGanesan)
+
 --------------------------------------------------
 ## 🛠️ Tech Stack
 
@@ -91,5 +97,8 @@ Machine Learning research project focused on predicting second-hand car prices i
 
 ---
 ⭐ Always eager to learn, collaborate, and grow as a Software Engineer.
+---
+💡 "Learning, Building, and Growing Every Day."
 
+⭐ Feel free to explore my repositories and connect with me!
 
