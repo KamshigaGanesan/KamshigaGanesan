@@ -6,6 +6,15 @@ I am a passionate Software Engineering student with an interest in Full-Stack De
 
 Currently seeking internship opportunities to gain industry experience, improve my technical skills, and contribute to innovative software development projects.
 
+--------------------------------------------------
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KamshigaGanesan&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamshigaGanesan&layout=compact)
+
+--------------------------------------------------
 ## 🛠️ Tech Stack
 
 ### Programming Languages
