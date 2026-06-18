@@ -19,11 +19,7 @@ Currently seeking internship opportunities to gain industry experience, improve 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamshigaGanesan&layout=compact)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KamshigaGanesan)](...)
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KamshigaGanesan)]
-
-![](https://komarev.com/ghpvc/?username=KamshigaGanesan)
 
 --------------------------------------------------
 ## 🛠️ Tech Stack
