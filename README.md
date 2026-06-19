@@ -1,17 +1,30 @@
-Kamshiga Ganesan
-Software Engineering Undergraduate
-Full-Stack Developer | MERN | Spring Boot | React Native
-Open to Internship Opportunities
-
 # Hi, I'm Kamshiga Ganesan 👋
 
-🎓 Software Engineering Undergraduate at SLIIT Northern University
+🎓 BSc (Hons) Information Technology Undergraduate specializing in Software Engineering
 
-I am a passionate Software Engineering student with an interest in Full-Stack Development, Artificial Intelligence, and Mobile Application Development. I enjoy building practical software solutions, learning new technologies, and working on projects that solve real-world problems.
+💻 Full-Stack Developer | MERN Stack | Spring Boot | React Native
 
-Currently seeking internship opportunities to gain industry experience, improve my technical skills, and contribute to innovative software development projects.
+🤖 AI/ML Enthusiast
 
---------------------------------------------------
+📍 Jaffna, Sri Lanka
+
+🚀 Open to Internship Opportunities
+
+![](https://komarev.com/ghpvc/?username=KamshigaGanesan&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+## 👩‍💻 About Me
+
+I am a Software Engineering undergraduate passionate about building modern web applications, mobile applications, and AI-powered solutions. I enjoy learning new technologies, solving real-world problems, and continuously improving my technical skills through hands-on projects and research.
+
+---
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=KamshigaGanesan&theme=flat&margin-w=10)
+
+---
 
 ## 📊 GitHub Statistics
 
@@ -19,9 +32,8 @@ Currently seeking internship opportunities to gain industry experience, improve 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KamshigaGanesan&layout=compact)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KamshigaGanesan)]
+---
 
---------------------------------------------------
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -56,45 +68,57 @@ Currently seeking internship opportunities to gain industry experience, improve 
 ![IntelliJ_IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## 💻 Featured Projects
+---
 
-### Career Selection & Education Guidance System
-A MERN stack application that helps Sri Lankan school leavers identify suitable educational and career pathways.
+## 🚀 Featured Projects
 
-### Human Resource Management System
-Backend HRM system developed using Java Spring Boot and PostgreSQL with RESTful APIs and CRUD functionality.
+| Project | Technology |
+|----------|------------|
+| Career Selection & Education Guidance System | MERN Stack |
+| Human Resource Management System | Spring Boot, PostgreSQL |
+| Smart Campus Mobile Application | React Native |
+| Indiran Jewellers Website | Next.js, Express.js, MongoDB |
+| Movie Ticket Reservation Platform | Java |
+| Second-Hand Car Price Prediction Research | Machine Learning |
 
-### Smart Campus Mobile Application
-Mobile application developed using React Native with a Lost & Found Management module for university students.
+---
 
-### Indiran Jewellers Website
-Full-stack jewellery showcase platform developed using Next.js, Express.js, MongoDB Atlas, and Cloudinary.
+## 🏅 Certifications
 
-### Car Price Prediction Research Project
-Machine Learning research project focused on predicting second-hand car prices in Sri Lanka using real market data.
-
-## 📜 Certifications
-
+- AI/ML Engineer – Stage 2
 - Basics of Python – UniAthena
 - Web Design for Beginners – University of Moratuwa
+- ThinkAI Expo 2025 Participant
+
+---
 
 ## 🌱 Currently Learning
 
 - Advanced MERN Stack Development
-- Machine Learning & AI
-- Software Engineering Best Practices
-- Cloud Technologies
+- Machine Learning & Artificial Intelligence
+- Cloud Computing Fundamentals
+- Software Architecture & Design Patterns
+
+---
+
+## 🎯 Career Objective
+
+To begin my professional journey as a Software Engineering Intern, applying my technical knowledge to real-world projects while learning from experienced industry professionals and contributing to innovative software solutions.
+
+---
 
 ## 📫 Connect With Me
 
-- LinkedIn: www.linkedin.com/in/kamshigaganesan
-- GitHub: https://github.com/KamshigaGanesan
-- Email: ganesankamshiga@gmail.com
+📧 Email: ganesankamshiga@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/kamshigaganesan
+
+💻 GitHub: github.com/KamshigaGanesan
+
+📍 Jaffna, Sri Lanka
 
 ---
-⭐ Always eager to learn, collaborate, and grow as a Software Engineer.
 
-💡 "Learning, Building, and Growing Every Day."
+⭐ Learning • Building • Growing Every Day
 
-⭐ Feel free to explore my repositories and connect with me!
-
+Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
