@@ -2,6 +2,8 @@
 
 🎓 BSc (Hons) Information Technology Undergraduate specializing in Software Engineering
 
+💼 Currently working as a Full Stack Development Intern at Decode Labs
+
 💻 Full-Stack Developer | MERN Stack | Spring Boot | React Native
 
 🤖 AI/ML Enthusiast
@@ -16,13 +18,22 @@
 
 ## 👩‍💻 About Me
 
-I am a Software Engineering undergraduate passionate about building modern web applications, mobile applications, and AI-powered solutions. I enjoy learning new technologies, solving real-world problems, and continuously improving my technical skills through hands-on projects and research.
+I am a Software Engineering undergraduate passionate about building modern web applications, mobile applications, and AI-powered solutions. Currently, I am working as a Full Stack Development Intern at Decode Labs, where I am gaining hands-on industry experience through real-world projects and mentor-guided learning.
+
+I enjoy learning new technologies, solving real-world problems, and continuously improving my technical skills through practical development and research.
 
 ---
 
-## 🏆 GitHub Trophies
+## 💼 Current Experience
 
-![trophy](https://github-profile-trophy.vercel.app/?username=KamshigaGanesan&theme=flat&margin-w=10)
+### Full Stack Development Intern | Decode Labs
+📅 June 2026 – Present
+
+- Working on real-world full-stack development projects
+- Collaborating with mentors and development teams
+- Building practical experience in modern web technologies
+- Following industry-standard software development practices
+- Enhancing skills in frontend, backend, databases, and deployment
 
 ---
 
@@ -85,10 +96,17 @@ I am a Software Engineering undergraduate passionate about building modern web a
 
 ## 🏅 Certifications
 
-- AI/ML Engineer – Stage 2
 - Basics of Python – UniAthena
 - Web Design for Beginners – University of Moratuwa
 - ThinkAI Expo 2025 Participant
+
+---
+
+## 💼 Experience
+
+| Position | Organization | Duration |
+|-----------|-------------|------------|
+| Full Stack Development Intern | Decode Labs | Jun 2026 – Jul 2026 |
 
 ---
 
@@ -103,7 +121,7 @@ I am a Software Engineering undergraduate passionate about building modern web a
 
 ## 🎯 Career Objective
 
-To begin my professional journey as a Software Engineering Intern, applying my technical knowledge to real-world projects while learning from experienced industry professionals and contributing to innovative software solutions.
+To build a successful career as a Software Engineer by applying my academic knowledge, internship experience, and technical skills to develop impactful software solutions while continuously learning and growing within the technology industry.
 
 ---
 
@@ -113,8 +131,8 @@ To begin my professional journey as a Software Engineering Intern, applying my t
 
 💼 LinkedIn: www.linkedin.com/in/kamshigaganesan
 
-💻 GitHub: github.com/KamshigaGanesan
-
+💻 GitHub: [github.com/KamshigaGanesan
+](https://github.com/KamshigaGanesan)
 📍 Jaffna, Sri Lanka
 
 ---
