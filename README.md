@@ -127,14 +127,14 @@ To build a successful career as a Software Engineer by applying my academic know
 
 ## 📫 Connect With Me
 
-📧 Email: ganesankamshiga@gmail.com
+📧 **Email:** [ganesankamshiga@gmail.com](mailto:ganesankamshiga@gmail.com)
 
-💼 LinkedIn: www.linkedin.com/in/kamshigaganesan
+💼 **LinkedIn:** [Kamshiga Ganesan](https://www.linkedin.com/in/kamshigaganesan)
 
-💻 GitHub: [github.com/KamshigaGanesan
-](https://github.com/KamshigaGanesan)
+💻 **GitHub:** [@KamshigaGanesan](https://github.com/KamshigaGanesan)
 
-📍 Jaffna, Sri Lanka
+📍 **Location:** Jaffna, Sri Lanka
+
 
 ---
 
