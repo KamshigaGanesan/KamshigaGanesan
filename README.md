@@ -15,7 +15,7 @@
 ![](https://komarev.com/ghpvc/?username=KamshigaGanesan&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kamshiga+Ganesan+👋;Full+Stack+Developer;AI%2FML+Enthusiast;Software+Engineering+Undergrad" alt="Typing SVG" /></a>
+
 
 ## 👩‍💻 About Me
 
