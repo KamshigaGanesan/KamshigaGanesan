@@ -134,7 +134,7 @@ To build a successful career as a Software Engineer by applying my academic know
 <a href="https://www.linkedin.com/in/kamshigaganesan">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://your-portfolio-link-here.com">
+<a href="[https://your-portfolio-link-here.com](https://kamshigaganesanportfolio.netlify.app/)">
   <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" />
 </a>
 
