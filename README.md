@@ -15,6 +15,7 @@
 ![](https://komarev.com/ghpvc/?username=KamshigaGanesan&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kamshiga+Ganesan+👋;Full+Stack+Developer;AI%2FML+Enthusiast;Software+Engineering+Undergrad" alt="Typing SVG" /></a>
 
 ## 👩‍💻 About Me
 
@@ -127,13 +128,16 @@ To build a successful career as a Software Engineer by applying my academic know
 
 ## 📫 Connect With Me
 
-📧 **Email:** [ganesankamshiga@gmail.com](mailto:ganesankamshiga@gmail.com)
+<a href="mailto:ganesankamshiga@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/kamshigaganesan">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://your-portfolio-link-here.com">
+  <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=react&logoColor=white" />
+</a>
 
-💼 **LinkedIn:** [Kamshiga Ganesan](https://www.linkedin.com/in/kamshigaganesan)
-
-💻 **GitHub:** [@KamshigaGanesan](https://github.com/KamshigaGanesan)
-
-📍 **Location:** Jaffna, Sri Lanka
 
 
 ---
