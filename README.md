@@ -1,10 +1,3 @@
-------------------------------------------------------------
-        Kamshiga Ganesan
- Software Engineering Undergraduate
- Full Stack Development Intern @ Decode Labs
-
- MERN • Spring Boot • React Native • AI/ML
-------------------------------------------------------------
 # Hi, I'm Kamshiga Ganesan 👋
 
 🎓 BSc (Hons) Information Technology Undergraduate specializing in Software Engineering
@@ -57,10 +50,6 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 | Indiran Jewellers Website | Business website with product management | Next.js, Express.js, MongoDB |
 | Movie Ticket Reservation Platform | Desktop-based movie reservation system | Java |
 | Second-Hand Car Price Prediction | Machine Learning research project | Python, Scikit-learn |
-
----
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=KamshigaGanesan)
 
 ---
 
