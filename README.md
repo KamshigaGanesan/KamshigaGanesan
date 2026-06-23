@@ -1,4 +1,4 @@
-# Hi, I'm Kamshiga Ganesan 👋
+# Hi there, I'm Kamshiga Ganesan 👋
 
 🎓 BSc (Hons) Information Technology Undergraduate specializing in Software Engineering
 
@@ -17,7 +17,7 @@
 ---
 
 
-## 👩‍💻 About Me
+# 👩‍💻 About Me
 
 I am a Software Engineering undergraduate passionate about building modern web applications, mobile applications, and AI-powered solutions. Currently, I am working as a Full Stack Development Intern at Decode Labs, where I am gaining hands-on industry experience through real-world projects and mentor-guided learning.
 
@@ -25,7 +25,7 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 
 ---
 
-## 💼 Current Experience
+# 💼 Current Experience
 
 ### Full Stack Development Intern | Decode Labs
 📅 June 2026 – Present
@@ -107,20 +107,12 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 
 ---
 
-## 🏅 Certifications
+# 🏆 Certifications
 
 - Basics of Python – UniAthena
 - Web Design for Beginners – University of Moratuwa
 - ThinkAI Expo 2025 Participant
-
----
-
-## 💼 Experience
-
-| Position | Organization | Duration |
-|-----------|-------------|------------|
-| Full Stack Development Intern | Decode Labs | Jun 2026 – Jul 2026 |
-
+- 
 ---
 
 # 🌱 Currently Learning
