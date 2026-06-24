@@ -2,8 +2,6 @@
 
 🎓 BSc (Hons) Information Technology Undergraduate specializing in Software Engineering
 
-💼 Currently working as a Full Stack Development Intern at Decode Labs
-
 💻 Full-Stack Developer | MERN Stack | Spring Boot | React Native
 
 🤖 AI/ML Enthusiast
