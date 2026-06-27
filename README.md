@@ -110,7 +110,7 @@ I enjoy learning new technologies, solving real-world problems, and continuously
 - Basics of Python – UniAthena
 - Web Design for Beginners – University of Moratuwa
 - ThinkAI Expo 2025 Participant
-- 
+ 
 ---
 
 # 🌱 Currently Learning
